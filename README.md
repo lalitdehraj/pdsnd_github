@@ -18,3 +18,6 @@ Bikeshare.py, Readme.md and .gitignore files are used.
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Credits goes to team Udacity.
 
+# Change First for Review
+Change first has been made by the developer after review the file.
+
