@@ -21,3 +21,6 @@ Credits goes to team Udacity.
 # Change First for Review
 Change first has been made by the developer after review the file.
 
+## App Testing
+The App Testing is done by an expert team called XYZ and the app was succuesfully passed.
+
